@@ -1,0 +1,29 @@
+Algebra lineal;Introduccion a la matematica
+Bases de datos 1;Logica y teoria de numeros,Organizacion del computador 1,Programacion 2
+Bases de datos 2;Programacion 1,Bases de datos 1
+Calculo para computacion;Introduccion a la matematica,Algebra lineal
+Especificaciones y verificacion de software;Programacion 3,Logica y teoria de numeros
+Gestion de proyectos;Proyecto profesional 1,Ingenieria de software 2
+Informatica y sociedad;Ingenieria de software 1
+Ingenieria de software 1;Programacion 3
+Ingenieria de software 2;Ingenieria de software 1,Especificaciones y verificacion de software
+Introduccion a la matematica;
+Introduccion a la programacion;
+Logica y teoria de numeros;Introduccion a la matematica,
+Matematica discreta;Algebra lineal,Logica y teoria de numeros,Calculo para computacion
+Modelado y optimizacion;Probabilidad y estadistica
+Organizacion del computador 1;Introduccion a la programacion
+Organizacion del computador 2;Organizacion del computador 1
+Practica profesional supervisada;Bases de datos 2,Proyecto profesional 2
+Probabilidad y estadistica;Matematica discreta,Calculo para computacion
+Problemas socioeconomicos contemporaneos;Programacion 1
+Programacion 1;Introduccion a la programacion
+Programacion 2;Programacion 1,Introduccion a la matematica
+Programacion 3;Programacion 2
+Proyecto profesional 1;Ingenieria de software 1,Especificaciones y verificacion de software,Problemas socioeconomicos contemporaneos,Bases de datos 1,Taller de lectura y escritura en las disciplinas
+Proyecto profesional 2;Proyecto profesional 1
+Sistemas operativos y redes 1;Organizacion del computador 1,Programacion 1
+Sistemas operativos y redes 2;Sistemas operativos y redes 1
+Taller de lectura y escritura en las disciplinas;
+Taller de tesina de licenciatura;Bases de datos 2,Proyecto profesional 2
+Teoria de la computacion;Organizacion del computador 1,Programacion 3,Matematica discreta
